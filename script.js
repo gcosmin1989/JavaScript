@@ -323,5 +323,3 @@ console.log(baut2);
 
 console.log(`Imi place sa beau ${varsta >=18 ? 'Alcool🍷' : 'Fara Alcool💧'}`)
 */
-
-//THE CONDITIONAL(TERNARY OPERATOR) / OPERATORUL TERNAR 🔥
